@@ -1,0 +1,2 @@
+# aiblog
+ai oriented programming
