@@ -49,3 +49,6 @@ wp-config.php
 
 #db tool
 db.php
+.user.ini
+404.html
+index.html
